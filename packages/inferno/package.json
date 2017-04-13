@@ -33,6 +33,8 @@
     "moduleName": "Inferno"
   },
   "main": "index.js",
+  "jsnext:main": "dist-es/index.js",
+  "module": "dist-es/index.js",
   "inferno:main": "dist-es/index.js",
   "typings": "dist/index.d.ts",
   "repository": "https://github.com/infernojs/inferno",
